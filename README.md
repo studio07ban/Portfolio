@@ -7,7 +7,7 @@ Je me reconvertis dans le développement web en appliquant les mêmes qualités 
 Formé chez La Capsule (RNCP Bac+3/4), 
 Je crée des applications modernes, intuitives et performantes.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🧰 Tech Stack
 
@@ -33,7 +33,7 @@ Outils
 	•	Postman / ThunderClient
 	•	Vercel
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📁 Projets
 
@@ -57,7 +57,7 @@ Recherche par ville et affichage dynamique.
 🔹 MyMoviz (Fullstack) – Work in progress 🧑🏻‍💻
 
 ➡️ Demo :
-`https://movies-frontend-git-main-studio07bans-projects.vercel.app/`
+`https://movies-frontend-roan.vercel.app`
 
 Fonctionnalités :
 	•	catalogue de films via API publique
@@ -65,7 +65,7 @@ Fonctionnalités :
 	•	authentification
 	•	stockage en base MongoDB
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🎯 Objectif professionnel
 
@@ -75,7 +75,7 @@ Devenir développeur web full-stack avec une préférence pour :
 	•	le backend Node/Mongo
 	•	les interfaces propres, rapides et efficaces
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📫 Me contacter
 	•	LinkedIn : `https://www.linkedin.com/in/pierre-beauchesne-020b66163`
