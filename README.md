@@ -1,83 +1,38 @@
-## 🚀 Portfolio – Pierre Beauchesne
+# 🚀 Pierre Beauchesne (BAN)
+### Développeur Fullstack Web & Mobile | Ex-Thales Rafale
 
-Développeur Web Full-Stack | JavaScript · React · Node.js · MongoDB
+"La rigueur de l'aéronautique appliquée au code." 
 
-Ancien horloger et micro-mécanicien chez Thales, 
-Je me reconvertis dans le développement web en appliquant les mêmes qualités : rigueur, précision et sens du détail.
-Formé chez La Capsule (RNCP Bac+3/4), 
-Je crée des applications modernes, intuitives et performantes.
+Ancien horloger spécialisé sur les systèmes critiques du Rafale chez Thales, je transpose mon exigence de précision et de fiabilité vers le développement logiciel. Diplômé Concepteur Développeur (RNCP 6), je conçois des solutions robustes, maintenables et centrées sur l'utilisateur.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
-## 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-Frontend
-	•	HTML5 · CSS3
-	•	JavaScript (ES6+)
-	•	React · Redux
+* **Frontend:** JavaScript (ES6+), TypeScript, React.js, React Native, Tailwind CSS, SwiftUI.
+* **Backend:** Node.js, Express.js, API REST.
+* **Data:** MongoDB, NoSQL.
+* **Outils:** Git, GitHub, SCRUM/Agile, TDD, Docker.
 
-Backend
-	•	Node.js
-	•	Express
-	•	API REST
+---
 
-Base de données
-	•	MongoDB
-	•	Mongoose
+### 📁 Projets Phares
 
-Mobile
-	•	Swift (formation Simplon)
+#### 📱 Roast My Excuses (Fullstack Mobile)
+Application conçue pour challenger la procrastination avec une logique d'humour générative.
+* **Stack:** React Native, Node.js, Express, MongoDB, Redux.
+* **Réalisation:** Architecture API REST, sécurisation des routes, modélisation NoSQL.
+* 🎥 *Démo vidéo disponible sur demande.*
 
-Outils
-	•	Git · GitHub
-	•	Postman / ThunderClient
-	•	Vercel
+#### 📋 FacilAdmin (iOS)
+Simplification des démarches administratives.
+* **Stack:** Swift, SwiftUI, Xcode.
+* **Réalisation:** Design UX/UI, développement des vues principales.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
-## 📁 Projets
+### 📫 Me contacter
 
-🔹 Morning News (Fullstack)
-
-Application d’actualités avec :
-	•	système de favoris
-	•	authentification (signup / signin)
-	•	base de données MongoDB
-	•	backend Express / frontend Next.js
-
-⸻
-
-🔹 Weather App
-
-Application météo utilisant l’API OpenWeather.
-Recherche par ville et affichage dynamique.
-
-⸻
-
-🔹 MyMoviz (Fullstack) – Work in progress 🧑🏻‍💻
-
-➡️ Demo :
-`https://movies-frontend-roan.vercel.app`
-
-Fonctionnalités :
-	•	catalogue de films via API publique
-	•	favoris
-	•	authentification
-	•	stockage en base MongoDB
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-## 🎯 Objectif professionnel
-
-Devenir développeur web full-stack avec une préférence pour :
-	•	le frontend moderne (React, UI/UX)
-	•	les applications interactives
-	•	le backend Node/Mongo
-	•	les interfaces propres, rapides et efficaces
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-## 📫 Me contacter
-	•	LinkedIn : `https://www.linkedin.com/in/pierre-beauchesne-020b66163`
-	•	GitHub : `https://github.com/studio07ban`
-	•	Email : pierre.beauchesne@outlook.fr
+* **LinkedIn:** [linkedin.com/in/pierre-beauchesne-020b66163](https://www.linkedin.com/in/pierre-beauchesne-020b66163)
+* **Email:** pierre.beauchesne@outlook.fr
+* **Localisation:** Marseille 07, France
