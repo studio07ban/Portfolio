@@ -33,14 +33,14 @@ Une application de sécurité personnelle basée sur le concept du "Dead Man's S
 [Lien vers le repo (Bientôt)] | [Live Demo (Bientôt)]
 
 #### 🎬 WatchFlow (Fullstack Web)
-**[Voir l'application en ligne](https://watchflow-nine.vercel.app/)** 
+**[Voir l'application en ligne](https://watchflow-nine.vercel.app/)** </br>
 Plateforme de découverte cinématographique et de gestion de listes de lecture intelligentes.
 * **Stack:** React (Vite), Node.js, Express, PostgreSQL (Neon), Prisma.
 * **Architecture:** Séparation Front/Back, Cookies HttpOnly, Sécurité JWT.
 * **Réalisations :** Consommation complexe d'API (TMDB), Modales interactives (Trailers), UX Optimiste.
 
 #### 🔥 Roast My Excuses (Fullstack Mobile)
-**[Repo Mobile](https://github.com/studio07ban/Roasty-Mobile.git)** | **[Repo API](https://github.com/studio07ban/Roasty-Backend.git)**
+**[Repo Mobile](https://github.com/studio07ban/Roasty-Mobile.git)** | **[Repo API](https://github.com/studio07ban/Roasty-Backend.git)** </br>
 Application mobile native qui combat la procrastination en générant des "roasts" (humiliations humoristiques) via IA.
 * **Stack:** React Native (Expo), Node.js, Express, MongoDB (NoSQL), Redux Toolkit.
 * **Architecture:** Client Mobile natif découplé de l'API REST.
