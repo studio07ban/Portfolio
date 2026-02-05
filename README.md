@@ -18,6 +18,20 @@ Ancien horloger spécialisé sur les systèmes critiques du Rafale chez Thales, 
 
 ### 📁 Projets Phares
 
+### 3. PULSE (Dead Man's Switch) 💓
+**Status :** 🟢 Almost Finished
+**Stack :** TypeScript, SQL, Cron Jobs, Edge Functions
+
+Une application de sécurité personnelle basée sur le concept du "Dead Man's Switch". Si l'utilisateur ne confirme pas sa présence à intervalles réguliers, le système déclenche automatiquement des protocoles prédéfinis (envoi de messages, transfert de données, etc.).
+
+**Points techniques clés :**
+- **Architecture Serverless :** Utilisation de Edge Functions pour une exécution rapide et distribuée.
+- **Automatisation Fiable :** Gestion de tâches planifiées complexes via Cron Jobs.
+- **Sécurité des données :** Base de données SQL relationnelle pour garantir l'intégrité des protocoles.
+- **Full TypeScript :** Typage strict de bout en bout pour une robustesse maximale.
+
+[Lien vers le repo (Bientôt)] | [Live Demo (Bientôt)]
+
 #### 🎬 WatchFlow (Fullstack Web)
 **[Voir l'application en ligne](https://watchflow-nine.vercel.app/)** 
 Plateforme de découverte cinématographique et de gestion de listes de lecture intelligentes.
