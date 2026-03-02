@@ -18,7 +18,7 @@ Ancien horloger spécialisé sur les systèmes critiques du Rafale chez Thales, 
 
 ### 📁 Projets Phares
 
-### 3. PULSE (Dead Man's Switch) 💓
+### 💓 PULSE (Dead Man's Switch) 
 **Status :** 🟢 Almost Finished
 **Stack :** TypeScript, SQL, Cron Jobs, Edge Functions
 
