@@ -32,14 +32,14 @@ Une application de sécurité personnelle basée sur le concept du "Dead Man's S
 
 [Lien vers le repo (Bientôt)] | [Live Demo (Bientôt)]
 
-#### 🎬 WatchFlow (Fullstack Web)
+### 🎬 WatchFlow (Fullstack Web)
 **[Voir l'application en ligne](https://watchflow-nine.vercel.app/)** </br>
 Plateforme de découverte cinématographique et de gestion de listes de lecture intelligentes.
 * **Stack:** React (Vite), Node.js, Express, PostgreSQL (Neon), Prisma.
 * **Architecture:** Séparation Front/Back, Cookies HttpOnly, Sécurité JWT.
 * **Réalisations :** Consommation complexe d'API (TMDB), Modales interactives (Trailers), UX Optimiste.
 
-#### 🔥 Roast My Excuses (Fullstack Mobile)
+### 🔥 Roast My Excuses (Fullstack Mobile)
 **[Repo Mobile](https://github.com/studio07ban/Roasty-Mobile.git)** | **[Repo API](https://github.com/studio07ban/Roasty-Backend.git)** </br>
 Application mobile native qui combat la procrastination en générant des "roasts" (humiliations humoristiques) via IA.
 * **Stack:** React Native (Expo), Node.js, Express, MongoDB (NoSQL), Redux Toolkit.
@@ -48,7 +48,7 @@ Application mobile native qui combat la procrastination en générant des "roast
     * 📱 **Mobile First :** Navigation native, Gestures, Stockage local (Redux Persist).
     * 🤝 **Social :** Feed communautaire, Système de Likes, Leaderboard en temps réel.
 
-#### 📋 FacilAdmin (iOS Natif)
+### 📋 FacilAdmin (iOS Natif)
 Simplification des démarches administratives sur mobile.
 * **Stack:** Swift, SwiftUI, Xcode.
 * **Réalisation:** Design UX/UI natif Apple, gestion des données locales.
